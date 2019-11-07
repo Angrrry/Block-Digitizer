@@ -1,0 +1,4 @@
+File: RESULT.txt
+Radiation block for Theratron
+*
+@ 0 0
